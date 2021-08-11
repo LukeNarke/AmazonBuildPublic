@@ -1,12 +1,7 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDTlgOy7IRwnZoQ-n2AnrsDPu3e57UByzk",
-  authDomain: "build-ced72.firebaseapp.com",
-  projectId: "build-ced72",
-  storageBucket: "build-ced72.appspot.com",
-  messagingSenderId: "33132826314",
-  appId: "1:33132826314:web:f0e49a404dd0a65520ee33",
+//  config file here
 };
 
 // initialize app
