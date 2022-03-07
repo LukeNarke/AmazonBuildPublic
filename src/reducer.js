@@ -5,7 +5,7 @@ export const initialState = {
 
 // selector
 // use optional chaining ?. to prevent undefined errors
-// essentially increments and tallies it up
+// essentially increments and tallies
 export const getBasketTotal = (basket) =>
   basket?.reduce((amount, item) => item.price + amount, 0);
 
