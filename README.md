@@ -1,1 +1,1 @@
-Amazon clone built with React!
+Amazon clone built with React
